@@ -1,5 +1,11 @@
 # DnDAppFiles
 
+Forked from https://github.com/ceryliae/DnDAppFiles
+
+Forked for the purpose of adding Pathfinder converted monsters and other homebrew content
+
+Original README - 
+
 Files for the GM5 and Fight Club apps from Lion's Den
 
 Please do NOT use these files unless you know what you are doing. The files here are a work in progress, and are not guaranteed to work properly when imported.
